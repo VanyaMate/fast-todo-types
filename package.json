@@ -1,0 +1,26 @@
+{
+  "name": "fast-todo-types",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanyaMate/fast-todo-types.git"
+  },
+  "keywords": [
+    "types"
+  ],
+  "author": "VanyaMate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VanyaMate/fast-todo-types/issues"
+  },
+  "homepage": "https://github.com/VanyaMate/fast-todo-types#readme",
+  "description": "",
+  "dependencies": {
+    "superstruct": "^1.0.4",
+    "tsc": "^2.0.4"
+  }
+}
